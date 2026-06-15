@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>blog</title>
+</head
+<body>
+    header {
+    background-color: #183C63;
+    color: #FFFFFF;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+    img {
+    width: 80px;
+    height: 80px;
+}<img src="imagem-blog.png" alt="logotipo conceitual de tecnologia e educação
+    <h1>mulheres no agronegocio</h1>
+    <p>o papel fundamental das mulheres no agronegócio tem crescido frequentemente</p>
+    <h2>o papel feminino no agronegócio<|h2>
+    <p> cada vez mais presente no campo, as mulheres contribuem para a produção de alimentos e gestão de 
+    propriedades rurais<|p>
+    <h3> força feminina no Agro<|h3>
+    <p> mulheres ampliam sua participação no Agro, ocupando cargos de liderança
+
+    <img alt="Uma imagem" src="imagem.png">
+    <a href="https://www.wikipedia.org">Clique aqui</a>
+  
+  <header>
+    <h1>Meu blog tech</h1>
+    <p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
+    <|header>
+    <main>
+    <h2>Meu primeiro post</h2>
+    <p>Boas-vindas ao meu novo blog! vou compartilhar dicas de programação e tecnologia.</p>
+    <p>Por: anna paião</p>
+    <main>
+</body>
+</html>
